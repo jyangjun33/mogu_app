@@ -21,4 +21,5 @@ node_modules/
 .vscode/
 # Others 
 __pycache__/
+# 删除公私钥 push尝试
 
