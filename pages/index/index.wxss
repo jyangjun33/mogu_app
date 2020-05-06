@@ -1,0 +1,5 @@
+/**index.wxss**/
+
+h1{
+  font-weight: bold;
+}
