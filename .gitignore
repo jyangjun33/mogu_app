@@ -12,4 +12,13 @@ $RECYCLE.BIN/
 
 # Node.js
 node_modules/
-aaa
+# idea 
+*.iml
+.idea/
+*.ipr
+*.iws
+# vscode
+.vscode/
+# Others 
+__pycache__/
+
